@@ -1,0 +1,5165 @@
+<collection>
+	<Account>
+		<AccountName>Cash</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>1009</Balance>
+		<City></City>
+		<AccountID>1</AccountID>
+		<Balance1>1009</Balance1>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>125</VoucherID>
+			<Date>05-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>30000.00</CR>
+			<Amount>-30000</Amount>
+			<Balance>30000.00 Cr.</Balance>
+			<Balance1>30000.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>52</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>36500.00</DR>
+			<CR></CR>
+			<Amount>36500</Amount>
+			<Balance>6500.00 Dr.</Balance>
+			<Balance1>6500.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>54</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>181443.00</CR>
+			<Amount>-181443</Amount>
+			<Balance>174943.00 Cr.</Balance>
+			<Balance1>174943.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>55</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>23823.00</CR>
+			<Amount>-23823</Amount>
+			<Balance>198766.00 Cr.</Balance>
+			<Balance1>198766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>226</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>138000.00</DR>
+			<CR></CR>
+			<Amount>138000</Amount>
+			<Balance>60766.00 Cr.</Balance>
+			<Balance1>60766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>53</VoucherID>
+			<Date>14-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>8000.00</DR>
+			<CR></CR>
+			<Amount>8000</Amount>
+			<Balance>52766.00 Cr.</Balance>
+			<Balance1>52766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>56</VoucherID>
+			<Date>21-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>5000.00</CR>
+			<Amount>-5000</Amount>
+			<Balance>57766.00 Cr.</Balance>
+			<Balance1>57766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>62</VoucherID>
+			<Date>22-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>5000.00</DR>
+			<CR></CR>
+			<Amount>5000</Amount>
+			<Balance>52766.00 Cr.</Balance>
+			<Balance1>52766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>57</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>252766.00 Cr.</Balance>
+			<Balance1>252766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>137</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>52766.00 Cr.</Balance>
+			<Balance1>52766.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>67</VoucherID>
+			<Date>05-06-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>47234.00 Dr.</Balance>
+			<Balance1>47234.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>126</VoucherID>
+			<Date>05-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>30000.00</CR>
+			<Amount>-30000</Amount>
+			<Balance>17234.00 Dr.</Balance>
+			<Balance1>17234.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>68</VoucherID>
+			<Date>08-06-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>30000.00</DR>
+			<CR></CR>
+			<Amount>30000</Amount>
+			<Balance>47234.00 Dr.</Balance>
+			<Balance1>47234.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>65</VoucherID>
+			<Date>10-06-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>3910.00</CR>
+			<Amount>-3910</Amount>
+			<Balance>43324.00 Dr.</Balance>
+			<Balance1>43324.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>66</VoucherID>
+			<Date>13-06-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>9500.00</CR>
+			<Amount>-9500</Amount>
+			<Balance>33824.00 Dr.</Balance>
+			<Balance1>33824.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>127</VoucherID>
+			<Date>05-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>824.00 Dr.</Balance>
+			<Balance1>824.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>77</VoucherID>
+			<Date>20-07-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR></DR>
+			<CR>3615.00</CR>
+			<Amount>-3615</Amount>
+			<Balance>2791.00 Cr.</Balance>
+			<Balance1>2791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>128</VoucherID>
+			<Date>05-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>35791.00 Cr.</Balance>
+			<Balance1>35791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>258</VoucherID>
+			<Date>05-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>55791.00 Cr.</Balance>
+			<Balance1>55791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>223</VoucherID>
+			<Date>13-08-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>15000.00</DR>
+			<CR></CR>
+			<Amount>15000</Amount>
+			<Balance>40791.00 Cr.</Balance>
+			<Balance1>40791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>259</VoucherID>
+			<Date>19-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>50791.00 Cr.</Balance>
+			<Balance1>50791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>129</VoucherID>
+			<Date>05-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>83791.00 Cr.</Balance>
+			<Balance1>83791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>138</VoucherID>
+			<Date>05-09-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>73791.00 Cr.</Balance>
+			<Balance1>73791.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>222</VoucherID>
+			<Date>14-09-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>76000.00</DR>
+			<CR></CR>
+			<Amount>76000</Amount>
+			<Balance>2209.00 Dr.</Balance>
+			<Balance1>2209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>158</VoucherID>
+			<Date>01-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>16000.00</DR>
+			<CR></CR>
+			<Amount>16000</Amount>
+			<Balance>18209.00 Dr.</Balance>
+			<Balance1>18209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>148</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>28209.00 Dr.</Balance>
+			<Balance1>28209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>149</VoucherID>
+			<Date>05-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>20000.00</DR>
+			<CR></CR>
+			<Amount>20000</Amount>
+			<Balance>48209.00 Dr.</Balance>
+			<Balance1>48209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>157</VoucherID>
+			<Date>05-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>15209.00 Dr.</Balance>
+			<Balance1>15209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>224</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>13000.00</DR>
+			<CR></CR>
+			<Amount>13000</Amount>
+			<Balance>28209.00 Dr.</Balance>
+			<Balance1>28209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>159</VoucherID>
+			<Date>12-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>38209.00 Dr.</Balance>
+			<Balance1>38209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>160</VoucherID>
+			<Date>15-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>48209.00 Dr.</Balance>
+			<Balance1>48209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>161</VoucherID>
+			<Date>19-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>58209.00 Dr.</Balance>
+			<Balance1>58209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>162</VoucherID>
+			<Date>23-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>15000.00</DR>
+			<CR></CR>
+			<Amount>15000</Amount>
+			<Balance>73209.00 Dr.</Balance>
+			<Balance1>73209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>163</VoucherID>
+			<Date>30-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>20000.00</DR>
+			<CR></CR>
+			<Amount>20000</Amount>
+			<Balance>93209.00 Dr.</Balance>
+			<Balance1>93209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>260</VoucherID>
+			<Date>30-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>73209.00 Dr.</Balance>
+			<Balance1>73209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>191</VoucherID>
+			<Date>05-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>40209.00 Dr.</Balance>
+			<Balance1>40209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>220</VoucherID>
+			<Date>06-11-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>15000.00</DR>
+			<CR></CR>
+			<Amount>15000</Amount>
+			<Balance>55209.00 Dr.</Balance>
+			<Balance1>55209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>167</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>1000.00</CR>
+			<Amount>-1000</Amount>
+			<Balance>54209.00 Dr.</Balance>
+			<Balance1>54209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>168</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>800.00</CR>
+			<Amount>-800</Amount>
+			<Balance>53409.00 Dr.</Balance>
+			<Balance1>53409.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>169</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>1200.00</CR>
+			<Amount>-1200</Amount>
+			<Balance>52209.00 Dr.</Balance>
+			<Balance1>52209.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>170</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>1100.00</CR>
+			<Amount>-1100</Amount>
+			<Balance>51109.00 Dr.</Balance>
+			<Balance1>51109.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>171</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>1100.00</CR>
+			<Amount>-1100</Amount>
+			<Balance>50009.00 Dr.</Balance>
+			<Balance1>50009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>221</VoucherID>
+			<Date>12-11-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>13000.00</DR>
+			<CR></CR>
+			<Amount>13000</Amount>
+			<Balance>63009.00 Dr.</Balance>
+			<Balance1>63009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>225</VoucherID>
+			<Date>15-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>13009.00 Dr.</Balance>
+			<Balance1>13009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>216</VoucherID>
+			<Date>05-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>19991.00 Cr.</Balance>
+			<Balance1>19991.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>218</VoucherID>
+			<Date>07-12-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>20000.00</DR>
+			<CR></CR>
+			<Amount>20000</Amount>
+			<Balance>9.00 Dr.</Balance>
+			<Balance1>9.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>219</VoucherID>
+			<Date>18-12-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>25000.00</DR>
+			<CR></CR>
+			<Amount>25000</Amount>
+			<Balance>25009.00 Dr.</Balance>
+			<Balance1>25009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>261</VoucherID>
+			<Date>18-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>25000.00</CR>
+			<Amount>-25000</Amount>
+			<Balance>9.00 Dr.</Balance>
+			<Balance1>9.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>217</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>33000.00</CR>
+			<Amount>-33000</Amount>
+			<Balance>32991.00 Cr.</Balance>
+			<Balance1>32991.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>263</VoucherID>
+			<Date>08-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>4000.00</DR>
+			<CR></CR>
+			<Amount>4000</Amount>
+			<Balance>28991.00 Cr.</Balance>
+			<Balance1>28991.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>266</VoucherID>
+			<Date>08-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>20000.00</DR>
+			<CR></CR>
+			<Amount>20000</Amount>
+			<Balance>8991.00 Cr.</Balance>
+			<Balance1>8991.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>264</VoucherID>
+			<Date>25-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>1009.00 Dr.</Balance>
+			<Balance1>1009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>252</VoucherID>
+			<Date>04-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>11009.00 Dr.</Balance>
+			<Balance1>11009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>253</VoucherID>
+			<Date>09-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>21009.00 Dr.</Balance>
+			<Balance1>21009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>254</VoucherID>
+			<Date>15-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>6000.00</DR>
+			<CR></CR>
+			<Amount>6000</Amount>
+			<Balance>27009.00 Dr.</Balance>
+			<Balance1>27009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>289</VoucherID>
+			<Date>15-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>5000.00</CR>
+			<Amount>-5000</Amount>
+			<Balance>22009.00 Dr.</Balance>
+			<Balance1>22009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>286</VoucherID>
+			<Date>20-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>2009.00 Dr.</Balance>
+			<Balance1>2009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>257</VoucherID>
+			<Date>04-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>25000.00</DR>
+			<CR></CR>
+			<Amount>25000</Amount>
+			<Balance>27009.00 Dr.</Balance>
+			<Balance1>27009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>262</VoucherID>
+			<Date>04-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>25000.00</CR>
+			<Amount>-25000</Amount>
+			<Balance>2009.00 Dr.</Balance>
+			<Balance1>2009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>270</VoucherID>
+			<Date>06-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>12009.00 Dr.</Balance>
+			<Balance1>12009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>272</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>4000.00</DR>
+			<CR></CR>
+			<Amount>4000</Amount>
+			<Balance>16009.00 Dr.</Balance>
+			<Balance1>16009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>274</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>6000.00</DR>
+			<CR></CR>
+			<Amount>6000</Amount>
+			<Balance>22009.00 Dr.</Balance>
+			<Balance1>22009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>276</VoucherID>
+			<Date>14-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR>10000.00</DR>
+			<CR></CR>
+			<Amount>10000</Amount>
+			<Balance>32009.00 Dr.</Balance>
+			<Balance1>32009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>295</VoucherID>
+			<Date>14-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>6000.00</CR>
+			<Amount>-6000</Amount>
+			<Balance>26009.00 Dr.</Balance>
+			<Balance1>26009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>288</VoucherID>
+			<Date>15-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>5000.00</CR>
+			<Amount>-5000</Amount>
+			<Balance>21009.00 Dr.</Balance>
+			<Balance1>21009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>1</AccountID>
+			<VoucherID>287</VoucherID>
+			<Date>20-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>1009.00 Dr.</Balance>
+			<Balance1>1009.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>DEW SOLUTION PVT LTD</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>1257135</Balance>
+		<City>GURGAON</City>
+		<AccountID>5015</AccountID>
+		<Balance1>1257135</Balance1>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>28-01-2016</DueDate>
+			<No>30</No>
+			<Amt>62717</Amt>
+		</Details>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>28-02-2016</DueDate>
+			<No>31</No>
+			<Amt>41310</Amt>
+		</Details>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>11-03-2016</DueDate>
+			<No>32</No>
+			<Amt>354297</Amt>
+		</Details>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>21-03-2016</DueDate>
+			<No>33</No>
+			<Amt>153306</Amt>
+		</Details>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>13-04-2015</DueDate>
+			<No>35</No>
+			<Amt>269356</Amt>
+		</Details>
+		<Details>
+			<AccountID>5015</AccountID>
+			<DueDate>21-04-2015</DueDate>
+			<No>36</No>
+			<Amt>106733</Amt>
+		</Details>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>0</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Opening Balance</Entry>
+			<DR>283907.00</DR>
+			<CR></CR>
+			<Balance>283907.00 Dr.</Balance>
+			<Amount>283907</Amount>
+			<Balance1>283907.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>3</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>306688.00</DR>
+			<CR></CR>
+			<Amount>306688</Amount>
+			<Balance>590595.00 Dr.</Balance>
+			<Balance1>590595.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>6</VoucherID>
+			<Date>07-04-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>72410.00</DR>
+			<CR></CR>
+			<Amount>72410</Amount>
+			<Balance>663005.00 Dr.</Balance>
+			<Balance1>663005.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>112</VoucherID>
+			<Date>15-04-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>235008.00</CR>
+			<Amount>-235008</Amount>
+			<Balance>427997.00 Dr.</Balance>
+			<Balance1>427997.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>9</VoucherID>
+			<Date>16-04-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>128290.00</DR>
+			<CR></CR>
+			<Amount>128290</Amount>
+			<Balance>556287.00 Dr.</Balance>
+			<Balance1>556287.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>11</VoucherID>
+			<Date>25-04-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>71237.00</DR>
+			<CR></CR>
+			<Amount>71237</Amount>
+			<Balance>627524.00 Dr.</Balance>
+			<Balance1>627524.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>113</VoucherID>
+			<Date>25-04-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>355027.00</CR>
+			<Amount>-355027</Amount>
+			<Balance>272497.00 Dr.</Balance>
+			<Balance1>272497.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>13</VoucherID>
+			<Date>06-05-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>288150.00</DR>
+			<CR></CR>
+			<Amount>288150</Amount>
+			<Balance>560647.00 Dr.</Balance>
+			<Balance1>560647.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>15</VoucherID>
+			<Date>17-05-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>78540.00</DR>
+			<CR></CR>
+			<Amount>78540</Amount>
+			<Balance>639187.00 Dr.</Balance>
+			<Balance1>639187.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>114</VoucherID>
+			<Date>28-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>72410.00</CR>
+			<Amount>-72410</Amount>
+			<Balance>566777.00 Dr.</Balance>
+			<Balance1>566777.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>19</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>331296.00</DR>
+			<CR></CR>
+			<Amount>331296</Amount>
+			<Balance>898073.00 Dr.</Balance>
+			<Balance1>898073.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>115</VoucherID>
+			<Date>04-06-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>128491.00</CR>
+			<Amount>-128491</Amount>
+			<Balance>769582.00 Dr.</Balance>
+			<Balance1>769582.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>116</VoucherID>
+			<Date>17-06-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>199528.00</CR>
+			<Amount>-199528</Amount>
+			<Balance>570054.00 Dr.</Balance>
+			<Balance1>570054.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>21</VoucherID>
+			<Date>26-06-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>236538.00</DR>
+			<CR></CR>
+			<Amount>236538</Amount>
+			<Balance>806592.00 Dr.</Balance>
+			<Balance1>806592.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>117</VoucherID>
+			<Date>06-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>154304.00</CR>
+			<Amount>-154304</Amount>
+			<Balance>652288.00 Dr.</Balance>
+			<Balance1>652288.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>26</VoucherID>
+			<Date>07-07-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>537260.00</DR>
+			<CR></CR>
+			<Amount>537260</Amount>
+			<Balance>1189548.00 Dr.</Balance>
+			<Balance1>1189548.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>23</VoucherID>
+			<Date>08-07-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>128596.00</DR>
+			<CR></CR>
+			<Amount>128596</Amount>
+			<Balance>1318144.00 Dr.</Balance>
+			<Balance1>1318144.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>40</VoucherID>
+			<Date>11-07-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>39780.00</DR>
+			<CR></CR>
+			<Amount>39780</Amount>
+			<Balance>1357924.00 Dr.</Balance>
+			<Balance1>1357924.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>74</VoucherID>
+			<Date>24-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>331296.00</CR>
+			<Amount>-331296</Amount>
+			<Balance>1026628.00 Dr.</Balance>
+			<Balance1>1026628.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>111</VoucherID>
+			<Date>24-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>78540.00</CR>
+			<Amount>-78540</Amount>
+			<Balance>948088.00 Dr.</Balance>
+			<Balance1>948088.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>30</VoucherID>
+			<Date>28-07-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>247350.00</DR>
+			<CR></CR>
+			<Amount>247350</Amount>
+			<Balance>1195438.00 Dr.</Balance>
+			<Balance1>1195438.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>32</VoucherID>
+			<Date>31-07-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>199818.00</DR>
+			<CR></CR>
+			<Amount>199818</Amount>
+			<Balance>1395256.00 Dr.</Balance>
+			<Balance1>1395256.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>35</VoucherID>
+			<Date>08-08-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>191760.00</DR>
+			<CR></CR>
+			<Amount>191760</Amount>
+			<Balance>1587016.00 Dr.</Balance>
+			<Balance1>1587016.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>118</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>1387016.00 Dr.</Balance>
+			<Balance1>1387016.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>38</VoucherID>
+			<Date>19-08-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>267750.00</DR>
+			<CR></CR>
+			<Amount>267750</Amount>
+			<Balance>1654766.00 Dr.</Balance>
+			<Balance1>1654766.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>119</VoucherID>
+			<Date>19-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>150000.00</CR>
+			<Amount>-150000</Amount>
+			<Balance>1504766.00 Dr.</Balance>
+			<Balance1>1504766.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>80</VoucherID>
+			<Date>24-08-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>261324.00</DR>
+			<CR></CR>
+			<Amount>261324</Amount>
+			<Balance>1766090.00 Dr.</Balance>
+			<Balance1>1766090.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>120</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>199818.00</CR>
+			<Amount>-199818</Amount>
+			<Balance>1566272.00 Dr.</Balance>
+			<Balance1>1566272.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>82</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>85170.00</DR>
+			<CR></CR>
+			<Amount>85170</Amount>
+			<Balance>1651442.00 Dr.</Balance>
+			<Balance1>1651442.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>121</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>247350.00</CR>
+			<Amount>-247350</Amount>
+			<Balance>1404092.00 Dr.</Balance>
+			<Balance1>1404092.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>92</VoucherID>
+			<Date>07-09-2015</Date>
+			<Entry>Sale Return</Entry>
+			<DR></DR>
+			<CR>19992.00</CR>
+			<Amount>-19992</Amount>
+			<Balance>1384100.00 Dr.</Balance>
+			<Balance1>1384100.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>122</VoucherID>
+			<Date>10-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>47406.00</CR>
+			<Amount>-47406</Amount>
+			<Balance>1336694.00 Dr.</Balance>
+			<Balance1>1336694.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>123</VoucherID>
+			<Date>11-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>1236694.00 Dr.</Balance>
+			<Balance1>1236694.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>85</VoucherID>
+			<Date>12-09-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>190852.00</DR>
+			<CR></CR>
+			<Amount>190852</Amount>
+			<Balance>1427546.00 Dr.</Balance>
+			<Balance1>1427546.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>124</VoucherID>
+			<Date>18-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>250000.00</CR>
+			<Amount>-250000</Amount>
+			<Balance>1177546.00 Dr.</Balance>
+			<Balance1>1177546.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>139</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>400000.00</CR>
+			<Amount>-400000</Amount>
+			<Balance>777546.00 Dr.</Balance>
+			<Balance1>777546.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>141</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>417792.00</DR>
+			<CR></CR>
+			<Amount>417792</Amount>
+			<Balance>1195338.00 Dr.</Balance>
+			<Balance1>1195338.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>143</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>113220.00</DR>
+			<CR></CR>
+			<Amount>113220</Amount>
+			<Balance>1308558.00 Dr.</Balance>
+			<Balance1>1308558.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>145</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>159324.00</DR>
+			<CR></CR>
+			<Amount>159324</Amount>
+			<Balance>1467882.00 Dr.</Balance>
+			<Balance1>1467882.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>152</VoucherID>
+			<Date>19-10-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>222258.00</DR>
+			<CR></CR>
+			<Amount>222258</Amount>
+			<Balance>1690140.00 Dr.</Balance>
+			<Balance1>1690140.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>156</VoucherID>
+			<Date>23-10-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>246769.00</CR>
+			<Amount>-246769</Amount>
+			<Balance>1443371.00 Dr.</Balance>
+			<Balance1>1443371.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>166</VoucherID>
+			<Date>31-10-2015</Date>
+			<Entry>Sale Return</Entry>
+			<DR></DR>
+			<CR>53142.00</CR>
+			<Amount>-53142</Amount>
+			<Balance>1390229.00 Dr.</Balance>
+			<Balance1>1390229.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>155</VoucherID>
+			<Date>03-11-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>444312.00</DR>
+			<CR></CR>
+			<Amount>444312</Amount>
+			<Balance>1834541.00 Dr.</Balance>
+			<Balance1>1834541.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>174</VoucherID>
+			<Date>04-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>187790.00</CR>
+			<Amount>-187790</Amount>
+			<Balance>1646751.00 Dr.</Balance>
+			<Balance1>1646751.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>182</VoucherID>
+			<Date>05-11-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>300186.00</DR>
+			<CR></CR>
+			<Amount>300186</Amount>
+			<Balance>1946937.00 Dr.</Balance>
+			<Balance1>1946937.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>175</VoucherID>
+			<Date>18-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>389242.00</CR>
+			<Amount>-389242</Amount>
+			<Balance>1557695.00 Dr.</Balance>
+			<Balance1>1557695.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>183</VoucherID>
+			<Date>20-11-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>546618.00</DR>
+			<CR></CR>
+			<Amount>546618</Amount>
+			<Balance>2104313.00 Dr.</Balance>
+			<Balance1>2104313.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>186</VoucherID>
+			<Date>23-11-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>229010.00</DR>
+			<CR></CR>
+			<Amount>229010</Amount>
+			<Balance>2333323.00 Dr.</Balance>
+			<Balance1>2333323.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>187</VoucherID>
+			<Date>24-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>217792.00</CR>
+			<Amount>-217792</Amount>
+			<Balance>2115531.00 Dr.</Balance>
+			<Balance1>2115531.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>195</VoucherID>
+			<Date>07-12-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>397851.00</DR>
+			<CR></CR>
+			<Amount>397851</Amount>
+			<Balance>2513382.00 Dr.</Balance>
+			<Balance1>2513382.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>200</VoucherID>
+			<Date>08-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>2313382.00 Dr.</Balance>
+			<Balance1>2313382.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>201</VoucherID>
+			<Date>16-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>159324.00</CR>
+			<Amount>-159324</Amount>
+			<Balance>2154058.00 Dr.</Balance>
+			<Balance1>2154058.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>198</VoucherID>
+			<Date>17-12-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>121910.00</DR>
+			<CR></CR>
+			<Amount>121910</Amount>
+			<Balance>2275968.00 Dr.</Balance>
+			<Balance1>2275968.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>206</VoucherID>
+			<Date>22-12-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>186150.00</DR>
+			<CR></CR>
+			<Amount>186150</Amount>
+			<Balance>2462118.00 Dr.</Balance>
+			<Balance1>2462118.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>209</VoucherID>
+			<Date>29-12-2015</Date>
+			<Entry>Sale</Entry>
+			<DR>311304.00</DR>
+			<CR></CR>
+			<Amount>311304</Amount>
+			<Balance>2773422.00 Dr.</Balance>
+			<Balance1>2773422.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>202</VoucherID>
+			<Date>30-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>222258.00</CR>
+			<Amount>-222258</Amount>
+			<Balance>2551164.00 Dr.</Balance>
+			<Balance1>2551164.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>213</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>2351164.00 Dr.</Balance>
+			<Balance1>2351164.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>215</VoucherID>
+			<Date>15-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>246607.00</CR>
+			<Amount>-246607</Amount>
+			<Balance>2104557.00 Dr.</Balance>
+			<Balance1>2104557.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>228</VoucherID>
+			<Date>22-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>1904557.00 Dr.</Balance>
+			<Balance1>1904557.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>236</VoucherID>
+			<Date>29-01-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>41310.00</DR>
+			<CR></CR>
+			<Amount>41310</Amount>
+			<Balance>1945867.00 Dr.</Balance>
+			<Balance1>1945867.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>229</VoucherID>
+			<Date>02-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>400000.00</CR>
+			<Amount>-400000</Amount>
+			<Balance>1545867.00 Dr.</Balance>
+			<Balance1>1545867.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>231</VoucherID>
+			<Date>11-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>400000.00</CR>
+			<Amount>-400000</Amount>
+			<Balance>1145867.00 Dr.</Balance>
+			<Balance1>1145867.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>239</VoucherID>
+			<Date>12-02-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>354297.00</DR>
+			<CR></CR>
+			<Amount>354297</Amount>
+			<Balance>1500164.00 Dr.</Balance>
+			<Balance1>1500164.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>232</VoucherID>
+			<Date>19-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>1300164.00 Dr.</Balance>
+			<Balance1>1300164.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>243</VoucherID>
+			<Date>22-02-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>153306.00</DR>
+			<CR></CR>
+			<Amount>153306</Amount>
+			<Balance>1453470.00 Dr.</Balance>
+			<Balance1>1453470.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>233</VoucherID>
+			<Date>26-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>252682.00</CR>
+			<Amount>-252682</Amount>
+			<Balance>1200788.00 Dr.</Balance>
+			<Balance1>1200788.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>244</VoucherID>
+			<Date>05-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>273816.00</CR>
+			<Amount>-273816</Amount>
+			<Balance>926972.00 Dr.</Balance>
+			<Balance1>926972.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>245</VoucherID>
+			<Date>09-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>726972.00 Dr.</Balance>
+			<Balance1>726972.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>279</VoucherID>
+			<Date>10-03-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>306688.00</DR>
+			<CR></CR>
+			<Amount>306688</Amount>
+			<Balance>1033660.00 Dr.</Balance>
+			<Balance1>1033660.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>282</VoucherID>
+			<Date>14-03-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>269356.00</DR>
+			<CR></CR>
+			<Amount>269356</Amount>
+			<Balance>1303016.00 Dr.</Balance>
+			<Balance1>1303016.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>246</VoucherID>
+			<Date>21-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>152614.00</CR>
+			<Amount>-152614</Amount>
+			<Balance>1150402.00 Dr.</Balance>
+			<Balance1>1150402.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5015</AccountID>
+			<VoucherID>285</VoucherID>
+			<Date>22-03-2016</Date>
+			<Entry>Sale</Entry>
+			<DR>106733.00</DR>
+			<CR></CR>
+			<Amount>106733</Amount>
+			<Balance>1257135.00 Dr.</Balance>
+			<Balance1>1257135.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>ICICI BANK</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>-34554</Balance>
+		<City></City>
+		<AccountID>5018</AccountID>
+		<Balance1>-34554</Balance1>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>0</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Opening Balance</Entry>
+			<DR>68000.00</DR>
+			<CR></CR>
+			<Balance>68000.00 Dr.</Balance>
+			<Amount>68000</Amount>
+			<Balance1>68000.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>41</VoucherID>
+			<Date>05-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>50000.00 Dr.</Balance>
+			<Balance1>50000.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>46</VoucherID>
+			<Date>08-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>23237.00</CR>
+			<Amount>-23237</Amount>
+			<Balance>26763.00 Dr.</Balance>
+			<Balance1>26763.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>112</VoucherID>
+			<Date>15-04-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>235008.00</DR>
+			<CR></CR>
+			<Amount>235008</Amount>
+			<Balance>261771.00 Dr.</Balance>
+			<Balance1>261771.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>48</VoucherID>
+			<Date>24-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>43760.00</CR>
+			<Amount>-43760</Amount>
+			<Balance>218011.00 Dr.</Balance>
+			<Balance1>218011.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>113</VoucherID>
+			<Date>25-04-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>355027.00</DR>
+			<CR></CR>
+			<Amount>355027</Amount>
+			<Balance>573038.00 Dr.</Balance>
+			<Balance1>573038.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>42</VoucherID>
+			<Date>05-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>555038.00 Dr.</Balance>
+			<Balance1>555038.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>50</VoucherID>
+			<Date>06-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>134310.00</CR>
+			<Amount>-134310</Amount>
+			<Balance>420728.00 Dr.</Balance>
+			<Balance1>420728.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>51</VoucherID>
+			<Date>07-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>112929.00</CR>
+			<Amount>-112929</Amount>
+			<Balance>307799.00 Dr.</Balance>
+			<Balance1>307799.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>60</VoucherID>
+			<Date>07-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>101282.00</CR>
+			<Amount>-101282</Amount>
+			<Balance>206517.00 Dr.</Balance>
+			<Balance1>206517.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>52</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>36500.00</CR>
+			<Amount>-36500</Amount>
+			<Balance>170017.00 Dr.</Balance>
+			<Balance1>170017.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>54</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>181443.00</DR>
+			<CR></CR>
+			<Amount>181443</Amount>
+			<Balance>351460.00 Dr.</Balance>
+			<Balance1>351460.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>55</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>23823.00</DR>
+			<CR></CR>
+			<Amount>23823</Amount>
+			<Balance>375283.00 Dr.</Balance>
+			<Balance1>375283.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>53</VoucherID>
+			<Date>14-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>8000.00</CR>
+			<Amount>-8000</Amount>
+			<Balance>367283.00 Dr.</Balance>
+			<Balance1>367283.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>59</VoucherID>
+			<Date>15-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>311000.00</CR>
+			<Amount>-311000</Amount>
+			<Balance>56283.00 Dr.</Balance>
+			<Balance1>56283.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>61</VoucherID>
+			<Date>19-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>49170.00</CR>
+			<Amount>-49170</Amount>
+			<Balance>7113.00 Dr.</Balance>
+			<Balance1>7113.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>56</VoucherID>
+			<Date>21-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>5000.00</DR>
+			<CR></CR>
+			<Amount>5000</Amount>
+			<Balance>12113.00 Dr.</Balance>
+			<Balance1>12113.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>62</VoucherID>
+			<Date>22-05-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>5000.00</CR>
+			<Amount>-5000</Amount>
+			<Balance>7113.00 Dr.</Balance>
+			<Balance1>7113.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>114</VoucherID>
+			<Date>28-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>72410.00</DR>
+			<CR></CR>
+			<Amount>72410</Amount>
+			<Balance>79523.00 Dr.</Balance>
+			<Balance1>79523.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>57</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>279523.00 Dr.</Balance>
+			<Balance1>279523.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>99</VoucherID>
+			<Date>01-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>58752.00</CR>
+			<Amount>-58752</Amount>
+			<Balance>220771.00 Dr.</Balance>
+			<Balance1>220771.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>93</VoucherID>
+			<Date>03-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>68999.00</CR>
+			<Amount>-68999</Amount>
+			<Balance>151772.00 Dr.</Balance>
+			<Balance1>151772.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>115</VoucherID>
+			<Date>04-06-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>128491.00</DR>
+			<CR></CR>
+			<Amount>128491</Amount>
+			<Balance>280263.00 Dr.</Balance>
+			<Balance1>280263.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>43</VoucherID>
+			<Date>05-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>262263.00 Dr.</Balance>
+			<Balance1>262263.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>67</VoucherID>
+			<Date>05-06-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>162263.00 Dr.</Balance>
+			<Balance1>162263.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>68</VoucherID>
+			<Date>08-06-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>30000.00</CR>
+			<Amount>-30000</Amount>
+			<Balance>132263.00 Dr.</Balance>
+			<Balance1>132263.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>65</VoucherID>
+			<Date>10-06-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>3910.00</DR>
+			<CR></CR>
+			<Amount>3910</Amount>
+			<Balance>136173.00 Dr.</Balance>
+			<Balance1>136173.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>66</VoucherID>
+			<Date>13-06-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>9500.00</DR>
+			<CR></CR>
+			<Amount>9500</Amount>
+			<Balance>145673.00 Dr.</Balance>
+			<Balance1>145673.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>69</VoucherID>
+			<Date>13-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>140715.00</CR>
+			<Amount>-140715</Amount>
+			<Balance>4958.00 Dr.</Balance>
+			<Balance1>4958.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>116</VoucherID>
+			<Date>17-06-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>199528.00</DR>
+			<CR></CR>
+			<Amount>199528</Amount>
+			<Balance>204486.00 Dr.</Balance>
+			<Balance1>204486.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>100</VoucherID>
+			<Date>02-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>104486.00 Dr.</Balance>
+			<Balance1>104486.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>70</VoucherID>
+			<Date>04-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>84795.00</CR>
+			<Amount>-84795</Amount>
+			<Balance>19691.00 Dr.</Balance>
+			<Balance1>19691.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>44</VoucherID>
+			<Date>05-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>1691.00 Dr.</Balance>
+			<Balance1>1691.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>117</VoucherID>
+			<Date>06-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>154304.00</DR>
+			<CR></CR>
+			<Amount>154304</Amount>
+			<Balance>155995.00 Dr.</Balance>
+			<Balance1>155995.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>101</VoucherID>
+			<Date>09-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>55995.00 Dr.</Balance>
+			<Balance1>55995.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>71</VoucherID>
+			<Date>20-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>42366.00</CR>
+			<Amount>-42366</Amount>
+			<Balance>13629.00 Dr.</Balance>
+			<Balance1>13629.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>77</VoucherID>
+			<Date>20-07-2015</Date>
+			<Entry>Deposit</Entry>
+			<DR>3615.00</DR>
+			<CR></CR>
+			<Amount>3615</Amount>
+			<Balance>17244.00 Dr.</Balance>
+			<Balance1>17244.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>74</VoucherID>
+			<Date>24-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>331296.00</DR>
+			<CR></CR>
+			<Amount>331296</Amount>
+			<Balance>348540.00 Dr.</Balance>
+			<Balance1>348540.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>111</VoucherID>
+			<Date>24-07-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>78540.00</DR>
+			<CR></CR>
+			<Amount>78540</Amount>
+			<Balance>427080.00 Dr.</Balance>
+			<Balance1>427080.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>98</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>327080.00 Dr.</Balance>
+			<Balance1>327080.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>102</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>94535.00</CR>
+			<Amount>-94535</Amount>
+			<Balance>232545.00 Dr.</Balance>
+			<Balance1>232545.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>103</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>132545.00 Dr.</Balance>
+			<Balance1>132545.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>76</VoucherID>
+			<Date>28-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>32545.00 Dr.</Balance>
+			<Balance1>32545.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>45</VoucherID>
+			<Date>05-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>14545.00 Dr.</Balance>
+			<Balance1>14545.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>75</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>85455.00 Cr.</Balance>
+			<Balance1>85455.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>104</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>49310.00</CR>
+			<Amount>-49310</Amount>
+			<Balance>134765.00 Cr.</Balance>
+			<Balance1>134765.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>105</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>51490.00</CR>
+			<Amount>-51490</Amount>
+			<Balance>186255.00 Cr.</Balance>
+			<Balance1>186255.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>118</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>13745.00 Dr.</Balance>
+			<Balance1>13745.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>223</VoucherID>
+			<Date>13-08-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>1255.00 Cr.</Balance>
+			<Balance1>1255.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>119</VoucherID>
+			<Date>19-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>150000.00</DR>
+			<CR></CR>
+			<Amount>150000</Amount>
+			<Balance>148745.00 Dr.</Balance>
+			<Balance1>148745.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>94</VoucherID>
+			<Date>20-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>124942.00</CR>
+			<Amount>-124942</Amount>
+			<Balance>23803.00 Dr.</Balance>
+			<Balance1>23803.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>95</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>76197.00 Cr.</Balance>
+			<Balance1>76197.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>107</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>96900.00</CR>
+			<Amount>-96900</Amount>
+			<Balance>173097.00 Cr.</Balance>
+			<Balance1>173097.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>120</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>199818.00</DR>
+			<CR></CR>
+			<Amount>199818</Amount>
+			<Balance>26721.00 Dr.</Balance>
+			<Balance1>26721.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>108</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>67166.00</CR>
+			<Amount>-67166</Amount>
+			<Balance>40445.00 Cr.</Balance>
+			<Balance1>40445.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>121</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>247350.00</DR>
+			<CR></CR>
+			<Amount>247350</Amount>
+			<Balance>206905.00 Dr.</Balance>
+			<Balance1>206905.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>138</VoucherID>
+			<Date>05-09-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>196905.00 Dr.</Balance>
+			<Balance1>196905.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>130</VoucherID>
+			<Date>08-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>146905.00 Dr.</Balance>
+			<Balance1>146905.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>135</VoucherID>
+			<Date>09-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>128905.00 Dr.</Balance>
+			<Balance1>128905.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>122</VoucherID>
+			<Date>10-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>47406.00</DR>
+			<CR></CR>
+			<Amount>47406</Amount>
+			<Balance>176311.00 Dr.</Balance>
+			<Balance1>176311.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>123</VoucherID>
+			<Date>11-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>276311.00 Dr.</Balance>
+			<Balance1>276311.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>222</VoucherID>
+			<Date>14-09-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>76000.00</CR>
+			<Amount>-76000</Amount>
+			<Balance>200311.00 Dr.</Balance>
+			<Balance1>200311.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>96</VoucherID>
+			<Date>16-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>311.00 Dr.</Balance>
+			<Balance1>311.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>124</VoucherID>
+			<Date>18-09-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>250000.00</DR>
+			<CR></CR>
+			<Amount>250000</Amount>
+			<Balance>250311.00 Dr.</Balance>
+			<Balance1>250311.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>134</VoucherID>
+			<Date>30-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>88941.00</CR>
+			<Amount>-88941</Amount>
+			<Balance>161370.00 Dr.</Balance>
+			<Balance1>161370.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>158</VoucherID>
+			<Date>01-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>16000.00</CR>
+			<Amount>-16000</Amount>
+			<Balance>145370.00 Dr.</Balance>
+			<Balance1>145370.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>139</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>400000.00</DR>
+			<CR></CR>
+			<Amount>400000</Amount>
+			<Balance>545370.00 Dr.</Balance>
+			<Balance1>545370.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>148</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>535370.00 Dr.</Balance>
+			<Balance1>535370.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>149</VoucherID>
+			<Date>05-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>515370.00 Dr.</Balance>
+			<Balance1>515370.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>147</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>126500.00</CR>
+			<Amount>-126500</Amount>
+			<Balance>388870.00 Dr.</Balance>
+			<Balance1>388870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>150</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>18000.00</CR>
+			<Amount>-18000</Amount>
+			<Balance>370870.00 Dr.</Balance>
+			<Balance1>370870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>224</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>13000.00</CR>
+			<Amount>-13000</Amount>
+			<Balance>357870.00 Dr.</Balance>
+			<Balance1>357870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>146</VoucherID>
+			<Date>09-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>57870.00 Dr.</Balance>
+			<Balance1>57870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>159</VoucherID>
+			<Date>12-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>47870.00 Dr.</Balance>
+			<Balance1>47870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>160</VoucherID>
+			<Date>15-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>37870.00 Dr.</Balance>
+			<Balance1>37870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>161</VoucherID>
+			<Date>19-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>27870.00 Dr.</Balance>
+			<Balance1>27870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>156</VoucherID>
+			<Date>23-10-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>246769.00</DR>
+			<CR></CR>
+			<Amount>246769</Amount>
+			<Balance>274639.00 Dr.</Balance>
+			<Balance1>274639.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>162</VoucherID>
+			<Date>23-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>259639.00 Dr.</Balance>
+			<Balance1>259639.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>164</VoucherID>
+			<Date>27-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>159639.00 Dr.</Balance>
+			<Balance1>159639.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>165</VoucherID>
+			<Date>29-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>109639.00 Dr.</Balance>
+			<Balance1>109639.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>163</VoucherID>
+			<Date>30-10-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>89639.00 Dr.</Balance>
+			<Balance1>89639.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>174</VoucherID>
+			<Date>04-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>187790.00</DR>
+			<CR></CR>
+			<Amount>187790</Amount>
+			<Balance>277429.00 Dr.</Balance>
+			<Balance1>277429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>220</VoucherID>
+			<Date>06-11-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>262429.00 Dr.</Balance>
+			<Balance1>262429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>176</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>62429.00 Dr.</Balance>
+			<Balance1>62429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>189</VoucherID>
+			<Date>08-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>47429.00 Dr.</Balance>
+			<Balance1>47429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>190</VoucherID>
+			<Date>08-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>32429.00 Dr.</Balance>
+			<Balance1>32429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>177</VoucherID>
+			<Date>09-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>267571.00 Cr.</Balance>
+			<Balance1>267571.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>180</VoucherID>
+			<Date>09-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>32429.00 Dr.</Balance>
+			<Balance1>32429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>221</VoucherID>
+			<Date>12-11-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>13000.00</CR>
+			<Amount>-13000</Amount>
+			<Balance>19429.00 Dr.</Balance>
+			<Balance1>19429.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>175</VoucherID>
+			<Date>18-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>389242.00</DR>
+			<CR></CR>
+			<Amount>389242</Amount>
+			<Balance>408671.00 Dr.</Balance>
+			<Balance1>408671.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>178</VoucherID>
+			<Date>19-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>150000.00</CR>
+			<Amount>-150000</Amount>
+			<Balance>258671.00 Dr.</Balance>
+			<Balance1>258671.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>179</VoucherID>
+			<Date>20-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>146370.00</CR>
+			<Amount>-146370</Amount>
+			<Balance>112301.00 Dr.</Balance>
+			<Balance1>112301.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>188</VoucherID>
+			<Date>20-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>66706.00</CR>
+			<Amount>-66706</Amount>
+			<Balance>45595.00 Dr.</Balance>
+			<Balance1>45595.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>187</VoucherID>
+			<Date>24-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>217792.00</DR>
+			<CR></CR>
+			<Amount>217792</Amount>
+			<Balance>263387.00 Dr.</Balance>
+			<Balance1>263387.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>204</VoucherID>
+			<Date>07-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>163387.00 Dr.</Balance>
+			<Balance1>163387.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>218</VoucherID>
+			<Date>07-12-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>143387.00 Dr.</Balance>
+			<Balance1>143387.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>200</VoucherID>
+			<Date>08-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>343387.00 Dr.</Balance>
+			<Balance1>343387.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>201</VoucherID>
+			<Date>16-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>159324.00</DR>
+			<CR></CR>
+			<Amount>159324</Amount>
+			<Balance>502711.00 Dr.</Balance>
+			<Balance1>502711.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>219</VoucherID>
+			<Date>18-12-2015</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>25000.00</CR>
+			<Amount>-25000</Amount>
+			<Balance>477711.00 Dr.</Balance>
+			<Balance1>477711.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>210</VoucherID>
+			<Date>19-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>218841.00</CR>
+			<Amount>-218841</Amount>
+			<Balance>258870.00 Dr.</Balance>
+			<Balance1>258870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>203</VoucherID>
+			<Date>22-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>98048.00</CR>
+			<Amount>-98048</Amount>
+			<Balance>160822.00 Dr.</Balance>
+			<Balance1>160822.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>202</VoucherID>
+			<Date>30-12-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>222258.00</DR>
+			<CR></CR>
+			<Amount>222258</Amount>
+			<Balance>383080.00 Dr.</Balance>
+			<Balance1>383080.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>211</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>163540.00</CR>
+			<Amount>-163540</Amount>
+			<Balance>219540.00 Dr.</Balance>
+			<Balance1>219540.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>212</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>81459.00</CR>
+			<Amount>-81459</Amount>
+			<Balance>138081.00 Dr.</Balance>
+			<Balance1>138081.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>213</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>338081.00 Dr.</Balance>
+			<Balance1>338081.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>214</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>38081.00 Dr.</Balance>
+			<Balance1>38081.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>251</VoucherID>
+			<Date>07-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>23081.00 Dr.</Balance>
+			<Balance1>23081.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>263</VoucherID>
+			<Date>08-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>4000.00</CR>
+			<Amount>-4000</Amount>
+			<Balance>19081.00 Dr.</Balance>
+			<Balance1>19081.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>266</VoucherID>
+			<Date>08-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>20000.00</CR>
+			<Amount>-20000</Amount>
+			<Balance>919.00 Cr.</Balance>
+			<Balance1>919.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>215</VoucherID>
+			<Date>15-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>246607.00</DR>
+			<CR></CR>
+			<Amount>246607</Amount>
+			<Balance>245688.00 Dr.</Balance>
+			<Balance1>245688.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>227</VoucherID>
+			<Date>18-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>45688.00 Dr.</Balance>
+			<Balance1>45688.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>228</VoucherID>
+			<Date>22-01-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>245688.00 Dr.</Balance>
+			<Balance1>245688.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>264</VoucherID>
+			<Date>25-01-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>235688.00 Dr.</Balance>
+			<Balance1>235688.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>229</VoucherID>
+			<Date>02-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>400000.00</DR>
+			<CR></CR>
+			<Amount>400000</Amount>
+			<Balance>635688.00 Dr.</Balance>
+			<Balance1>635688.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>230</VoucherID>
+			<Date>02-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>162225.00</CR>
+			<Amount>-162225</Amount>
+			<Balance>473463.00 Dr.</Balance>
+			<Balance1>473463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>265</VoucherID>
+			<Date>03-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>173463.00 Dr.</Balance>
+			<Balance1>173463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>252</VoucherID>
+			<Date>04-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>163463.00 Dr.</Balance>
+			<Balance1>163463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>247</VoucherID>
+			<Date>05-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>113463.00 Dr.</Balance>
+			<Balance1>113463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>253</VoucherID>
+			<Date>09-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>103463.00 Dr.</Balance>
+			<Balance1>103463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>234</VoucherID>
+			<Date>10-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>3463.00 Dr.</Balance>
+			<Balance1>3463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>231</VoucherID>
+			<Date>11-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>400000.00</DR>
+			<CR></CR>
+			<Amount>400000</Amount>
+			<Balance>403463.00 Dr.</Balance>
+			<Balance1>403463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>254</VoucherID>
+			<Date>15-02-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>6000.00</CR>
+			<Amount>-6000</Amount>
+			<Balance>397463.00 Dr.</Balance>
+			<Balance1>397463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>249</VoucherID>
+			<Date>16-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>387463.00 Dr.</Balance>
+			<Balance1>387463.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>250</VoucherID>
+			<Date>16-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>20500.00</CR>
+			<Amount>-20500</Amount>
+			<Balance>366963.00 Dr.</Balance>
+			<Balance1>366963.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>232</VoucherID>
+			<Date>19-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>566963.00 Dr.</Balance>
+			<Balance1>566963.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>233</VoucherID>
+			<Date>26-02-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>252682.00</DR>
+			<CR></CR>
+			<Amount>252682</Amount>
+			<Balance>819645.00 Dr.</Balance>
+			<Balance1>819645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>255</VoucherID>
+			<Date>01-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>619645.00 Dr.</Balance>
+			<Balance1>619645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>269</VoucherID>
+			<Date>02-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>6000.00</CR>
+			<Amount>-6000</Amount>
+			<Balance>613645.00 Dr.</Balance>
+			<Balance1>613645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>267</VoucherID>
+			<Date>03-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>563645.00 Dr.</Balance>
+			<Balance1>563645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>268</VoucherID>
+			<Date>03-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>513645.00 Dr.</Balance>
+			<Balance1>513645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>257</VoucherID>
+			<Date>04-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>25000.00</CR>
+			<Amount>-25000</Amount>
+			<Balance>488645.00 Dr.</Balance>
+			<Balance1>488645.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>244</VoucherID>
+			<Date>05-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>273816.00</DR>
+			<CR></CR>
+			<Amount>273816</Amount>
+			<Balance>762461.00 Dr.</Balance>
+			<Balance1>762461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>270</VoucherID>
+			<Date>06-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>752461.00 Dr.</Balance>
+			<Balance1>752461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>256</VoucherID>
+			<Date>07-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>21000.00</CR>
+			<Amount>-21000</Amount>
+			<Balance>731461.00 Dr.</Balance>
+			<Balance1>731461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>245</VoucherID>
+			<Date>09-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>931461.00 Dr.</Balance>
+			<Balance1>931461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>271</VoucherID>
+			<Date>09-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>831461.00 Dr.</Balance>
+			<Balance1>831461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>273</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>11000.00</CR>
+			<Amount>-11000</Amount>
+			<Balance>820461.00 Dr.</Balance>
+			<Balance1>820461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>274</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>6000.00</CR>
+			<Amount>-6000</Amount>
+			<Balance>814461.00 Dr.</Balance>
+			<Balance1>814461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>275</VoucherID>
+			<Date>14-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>764461.00 Dr.</Balance>
+			<Balance1>764461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>276</VoucherID>
+			<Date>14-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>10000.00</CR>
+			<Amount>-10000</Amount>
+			<Balance>754461.00 Dr.</Balance>
+			<Balance1>754461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>277</VoucherID>
+			<Date>19-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>554461.00 Dr.</Balance>
+			<Balance1>554461.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>246</VoucherID>
+			<Date>21-03-2016</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>152614.00</DR>
+			<CR></CR>
+			<Amount>152614</Amount>
+			<Balance>707075.00 Dr.</Balance>
+			<Balance1>707075.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>0</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>15000.00</CR>
+			<Amount>-15000</Amount>
+			<Balance>692075.00 Dr.</Balance>
+			<Balance1>692075.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>290</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>392075.00 Dr.</Balance>
+			<Balance1>392075.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>291</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>160629.00</CR>
+			<Amount>-160629</Amount>
+			<Balance>231446.00 Dr.</Balance>
+			<Balance1>231446.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>292</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>16000.00</CR>
+			<Amount>-16000</Amount>
+			<Balance>215446.00 Dr.</Balance>
+			<Balance1>215446.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>293</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>15446.00 Dr.</Balance>
+			<Balance1>15446.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5018</AccountID>
+			<VoucherID>294</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>50000.00</CR>
+			<Amount>-50000</Amount>
+			<Balance>34554.00 Cr.</Balance>
+			<Balance1>34554.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>KC GARMENTS</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>212634</Balance>
+		<City></City>
+		<AccountID>5014</AccountID>
+		<Balance1>212634</Balance1>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>2</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>36540.00</CR>
+			<Amount>-36540</Amount>
+			<Balance>36540.00 Cr.</Balance>
+			<Balance1>36540.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>5</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>28350.00</CR>
+			<Amount>-28350</Amount>
+			<Balance>64890.00 Cr.</Balance>
+			<Balance1>64890.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>131</VoucherID>
+			<Date>08-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>47780.00</DR>
+			<CR></CR>
+			<Amount>47780</Amount>
+			<Balance>17110.00 Cr.</Balance>
+			<Balance1>17110.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>10</VoucherID>
+			<Date>09-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>47722.00</CR>
+			<Amount>-47722</Amount>
+			<Balance>64832.00 Cr.</Balance>
+			<Balance1>64832.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>132</VoucherID>
+			<Date>27-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>62424.00</DR>
+			<CR></CR>
+			<Amount>62424</Amount>
+			<Balance>2408.00 Cr.</Balance>
+			<Balance1>2408.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>50</VoucherID>
+			<Date>06-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>134310.00</DR>
+			<CR></CR>
+			<Amount>134310</Amount>
+			<Balance>131902.00 Dr.</Balance>
+			<Balance1>131902.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>61</VoucherID>
+			<Date>19-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>49170.00</DR>
+			<CR></CR>
+			<Amount>49170</Amount>
+			<Balance>181072.00 Dr.</Balance>
+			<Balance1>181072.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>18</VoucherID>
+			<Date>27-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>92925.00</CR>
+			<Amount>-92925</Amount>
+			<Balance>88147.00 Dr.</Balance>
+			<Balance1>88147.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>133</VoucherID>
+			<Date>30-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>43188.00</DR>
+			<CR></CR>
+			<Amount>43188</Amount>
+			<Balance>131335.00 Dr.</Balance>
+			<Balance1>131335.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>20</VoucherID>
+			<Date>11-06-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>140595.00</CR>
+			<Amount>-140595</Amount>
+			<Balance>9260.00 Cr.</Balance>
+			<Balance1>9260.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>69</VoucherID>
+			<Date>13-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>140715.00</DR>
+			<CR></CR>
+			<Amount>140715</Amount>
+			<Balance>131455.00 Dr.</Balance>
+			<Balance1>131455.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>22</VoucherID>
+			<Date>01-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>82530.00</CR>
+			<Amount>-82530</Amount>
+			<Balance>48925.00 Dr.</Balance>
+			<Balance1>48925.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>70</VoucherID>
+			<Date>04-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>84795.00</DR>
+			<CR></CR>
+			<Amount>84795</Amount>
+			<Balance>133720.00 Dr.</Balance>
+			<Balance1>133720.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>39</VoucherID>
+			<Date>11-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>32288.00</CR>
+			<Amount>-32288</Amount>
+			<Balance>101432.00 Dr.</Balance>
+			<Balance1>101432.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>29</VoucherID>
+			<Date>16-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>44100.00</CR>
+			<Amount>-44100</Amount>
+			<Balance>57332.00 Dr.</Balance>
+			<Balance1>57332.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>71</VoucherID>
+			<Date>20-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>42366.00</DR>
+			<CR></CR>
+			<Amount>42366</Amount>
+			<Balance>99698.00 Dr.</Balance>
+			<Balance1>99698.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>37</VoucherID>
+			<Date>05-08-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>99698.00</CR>
+			<Amount>-99698</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>83</VoucherID>
+			<Date>02-09-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>88941.00</CR>
+			<Amount>-88941</Amount>
+			<Balance>88941.00 Cr.</Balance>
+			<Balance1>88941.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>134</VoucherID>
+			<Date>30-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>88941.00</DR>
+			<CR></CR>
+			<Amount>88941</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>153</VoucherID>
+			<Date>01-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>146370.00</CR>
+			<Amount>-146370</Amount>
+			<Balance>146370.00 Cr.</Balance>
+			<Balance1>146370.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>173</VoucherID>
+			<Date>19-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>189945.00</CR>
+			<Amount>-189945</Amount>
+			<Balance>336315.00 Cr.</Balance>
+			<Balance1>336315.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>179</VoucherID>
+			<Date>20-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>146370.00</DR>
+			<CR></CR>
+			<Amount>146370</Amount>
+			<Balance>189945.00 Cr.</Balance>
+			<Balance1>189945.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>185</VoucherID>
+			<Date>22-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>121968.00</CR>
+			<Amount>-121968</Amount>
+			<Balance>311913.00 Cr.</Balance>
+			<Balance1>311913.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>197</VoucherID>
+			<Date>01-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>16254.00</CR>
+			<Amount>-16254</Amount>
+			<Balance>328167.00 Cr.</Balance>
+			<Balance1>328167.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>199</VoucherID>
+			<Date>03-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>41580.00</CR>
+			<Amount>-41580</Amount>
+			<Balance>369747.00 Cr.</Balance>
+			<Balance1>369747.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>205</VoucherID>
+			<Date>19-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>162225.00</CR>
+			<Amount>-162225</Amount>
+			<Balance>531972.00 Cr.</Balance>
+			<Balance1>531972.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>210</VoucherID>
+			<Date>19-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>218841.00</DR>
+			<CR></CR>
+			<Amount>218841</Amount>
+			<Balance>313131.00 Cr.</Balance>
+			<Balance1>313131.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>211</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>163540.00</DR>
+			<CR></CR>
+			<Amount>163540</Amount>
+			<Balance>149591.00 Cr.</Balance>
+			<Balance1>149591.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>230</VoucherID>
+			<Date>02-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>162225.00</DR>
+			<CR></CR>
+			<Amount>162225</Amount>
+			<Balance>12634.00 Dr.</Balance>
+			<Balance1>12634.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>278</VoucherID>
+			<Date>10-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>72555.00</CR>
+			<Amount>-72555</Amount>
+			<Balance>59921.00 Cr.</Balance>
+			<Balance1>59921.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>281</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>42336.00</CR>
+			<Amount>-42336</Amount>
+			<Balance>102257.00 Cr.</Balance>
+			<Balance1>102257.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>283</VoucherID>
+			<Date>17-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>45738.00</CR>
+			<Amount>-45738</Amount>
+			<Balance>147995.00 Cr.</Balance>
+			<Balance1>147995.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>291</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>160629.00</DR>
+			<CR></CR>
+			<Amount>160629</Amount>
+			<Balance>12634.00 Dr.</Balance>
+			<Balance1>12634.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5014</AccountID>
+			<VoucherID>293</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>212634.00 Dr.</Balance>
+			<Balance1>212634.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>OORJA INTERNATIONAL</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>1</Balance>
+		<City></City>
+		<AccountID>5021</AccountID>
+		<Balance1>1</Balance1>
+		<Ledger>
+			<AccountID>5021</AccountID>
+			<VoucherID>188</VoucherID>
+			<Date>20-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>66706.00</DR>
+			<CR></CR>
+			<Amount>66706</Amount>
+			<Balance>66706.00 Dr.</Balance>
+			<Balance1>66706.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5021</AccountID>
+			<VoucherID>184</VoucherID>
+			<Date>25-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>66705.00</CR>
+			<Amount>-66705</Amount>
+			<Balance>1.00 Dr.</Balance>
+			<Balance1>1.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>PASSION STAR</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>0</Balance>
+		<City></City>
+		<AccountID>5016</AccountID>
+		<Balance1>0</Balance1>
+		<Ledger>
+			<AccountID>5016</AccountID>
+			<VoucherID>4</VoucherID>
+			<Date>02-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>23237.00</CR>
+			<Amount>-23237</Amount>
+			<Balance>23237.00 Cr.</Balance>
+			<Balance1>23237.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5016</AccountID>
+			<VoucherID>46</VoucherID>
+			<Date>08-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>23237.00</DR>
+			<CR></CR>
+			<Amount>23237</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>REBEL DESIGN STUDIO</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile>9811682508</Mobile>
+		<Email></Email>
+		<Balance>-53736</Balance>
+		<City>NEW DELHI</City>
+		<AccountID>5013</AccountID>
+		<Balance1>-53736</Balance1>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>0</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Opening Balance</Entry>
+			<DR>232549.00</DR>
+			<CR></CR>
+			<Balance>232549.00 Dr.</Balance>
+			<Amount>232549</Amount>
+			<Balance1>232549.00 Cr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>1</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>232549.00</CR>
+			<Amount>-232549</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>7</VoucherID>
+			<Date>14-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>43760.00</CR>
+			<Amount>-43760</Amount>
+			<Balance>43760.00 Cr.</Balance>
+			<Balance1>43760.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>48</VoucherID>
+			<Date>24-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>43760.00</DR>
+			<CR></CR>
+			<Amount>43760</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>109</VoucherID>
+			<Date>02-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>86606.00</CR>
+			<Amount>-86606</Amount>
+			<Balance>86606.00 Cr.</Balance>
+			<Balance1>86606.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>110</VoucherID>
+			<Date>05-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>26324.00</CR>
+			<Amount>-26324</Amount>
+			<Balance>112930.00 Cr.</Balance>
+			<Balance1>112930.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>51</VoucherID>
+			<Date>07-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>112929.00</DR>
+			<CR></CR>
+			<Amount>112929</Amount>
+			<Balance>1.00 Cr.</Balance>
+			<Balance1>1.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>14</VoucherID>
+			<Date>16-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>68999.00</CR>
+			<Amount>-68999</Amount>
+			<Balance>69000.00 Cr.</Balance>
+			<Balance1>69000.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>17</VoucherID>
+			<Date>26-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>131584.00</CR>
+			<Amount>-131584</Amount>
+			<Balance>200584.00 Cr.</Balance>
+			<Balance1>200584.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>93</VoucherID>
+			<Date>03-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>68999.00</DR>
+			<CR></CR>
+			<Amount>68999</Amount>
+			<Balance>131585.00 Cr.</Balance>
+			<Balance1>131585.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>25</VoucherID>
+			<Date>01-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>193360.00</CR>
+			<Amount>-193360</Amount>
+			<Balance>324945.00 Cr.</Balance>
+			<Balance1>324945.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>27</VoucherID>
+			<Date>08-07-2015</Date>
+			<Entry>Purchase Return</Entry>
+			<DR>43200.00</DR>
+			<CR></CR>
+			<Amount>43200</Amount>
+			<Balance>281745.00 Cr.</Balance>
+			<Balance1>281745.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>31</VoucherID>
+			<Date>18-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>198736.00</CR>
+			<Amount>-198736</Amount>
+			<Balance>480481.00 Cr.</Balance>
+			<Balance1>480481.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>98</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>380481.00 Cr.</Balance>
+			<Balance1>380481.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>76</VoucherID>
+			<Date>28-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>280481.00 Cr.</Balance>
+			<Balance1>280481.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>33</VoucherID>
+			<Date>31-07-2015</Date>
+			<Entry>Purchase Return</Entry>
+			<DR>9505.00</DR>
+			<CR></CR>
+			<Amount>9505</Amount>
+			<Balance>270976.00 Cr.</Balance>
+			<Balance1>270976.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>75</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>170976.00 Cr.</Balance>
+			<Balance1>170976.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>78</VoucherID>
+			<Date>18-08-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>139285.00</CR>
+			<Amount>-139285</Amount>
+			<Balance>310261.00 Cr.</Balance>
+			<Balance1>310261.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>79</VoucherID>
+			<Date>18-08-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>91447.00</CR>
+			<Amount>-91447</Amount>
+			<Balance>401708.00 Cr.</Balance>
+			<Balance1>401708.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>94</VoucherID>
+			<Date>20-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>124942.00</DR>
+			<CR></CR>
+			<Amount>124942</Amount>
+			<Balance>276766.00 Cr.</Balance>
+			<Balance1>276766.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>95</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>176766.00 Cr.</Balance>
+			<Balance1>176766.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>97</VoucherID>
+			<Date>15-09-2015</Date>
+			<Entry>Purchase Return</Entry>
+			<DR>17380.00</DR>
+			<CR></CR>
+			<Amount>17380</Amount>
+			<Balance>159386.00 Cr.</Balance>
+			<Balance1>159386.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>96</VoucherID>
+			<Date>16-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>40614.00 Dr.</Balance>
+			<Balance1>40614.00 Cr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>140</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>367034.00</CR>
+			<Amount>-367034</Amount>
+			<Balance>326420.00 Cr.</Balance>
+			<Balance1>326420.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>142</VoucherID>
+			<Date>03-10-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>100953.00</CR>
+			<Amount>-100953</Amount>
+			<Balance>427373.00 Cr.</Balance>
+			<Balance1>427373.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>146</VoucherID>
+			<Date>09-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>127373.00 Cr.</Balance>
+			<Balance1>127373.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>154</VoucherID>
+			<Date>03-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>234706.00</CR>
+			<Amount>-234706</Amount>
+			<Balance>362079.00 Cr.</Balance>
+			<Balance1>362079.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>176</VoucherID>
+			<Date>07-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>162079.00 Cr.</Balance>
+			<Balance1>162079.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>177</VoucherID>
+			<Date>09-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>137921.00 Dr.</Balance>
+			<Balance1>137921.00 Cr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>172</VoucherID>
+			<Date>18-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>290665.00</CR>
+			<Amount>-290665</Amount>
+			<Balance>152744.00 Cr.</Balance>
+			<Balance1>152744.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>194</VoucherID>
+			<Date>30-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>161410.00</CR>
+			<Amount>-161410</Amount>
+			<Balance>314154.00 Cr.</Balance>
+			<Balance1>314154.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>208</VoucherID>
+			<Date>28-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>154046.00</CR>
+			<Amount>-154046</Amount>
+			<Balance>468200.00 Cr.</Balance>
+			<Balance1>468200.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>214</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>168200.00 Cr.</Balance>
+			<Balance1>168200.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>237</VoucherID>
+			<Date>11-02-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>214929.00</CR>
+			<Amount>-214929</Amount>
+			<Balance>383129.00 Cr.</Balance>
+			<Balance1>383129.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>255</VoucherID>
+			<Date>01-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>183129.00 Cr.</Balance>
+			<Balance1>183129.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>280</VoucherID>
+			<Date>11-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>170607.00</CR>
+			<Amount>-170607</Amount>
+			<Balance>353736.00 Cr.</Balance>
+			<Balance1>353736.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5013</AccountID>
+			<VoucherID>290</VoucherID>
+			<Date>28-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>53736.00 Cr.</Balance>
+			<Balance1>53736.00 Dr.</Balance1>
+			<Mobile>9811682508</Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>SHRI BANKEY BIHARI INTERNATIONAL</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>-371960</Balance>
+		<City></City>
+		<AccountID>5020</AccountID>
+		<Balance1>-371960</Balance1>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>226</VoucherID>
+			<Date>11-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>138000.00</CR>
+			<Amount>-138000</Amount>
+			<Balance>138000.00 Cr.</Balance>
+			<Balance1>138000.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>59</VoucherID>
+			<Date>15-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>311000.00</DR>
+			<CR></CR>
+			<Amount>311000</Amount>
+			<Balance>173000.00 Dr.</Balance>
+			<Balance1>173000.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>136</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>311000.00</CR>
+			<Amount>-311000</Amount>
+			<Balance>138000.00 Cr.</Balance>
+			<Balance1>138000.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>137</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>200000.00</CR>
+			<Amount>-200000</Amount>
+			<Balance>338000.00 Cr.</Balance>
+			<Balance1>338000.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>84</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>33960.00</CR>
+			<Amount>-33960</Amount>
+			<Balance>371960.00 Cr.</Balance>
+			<Balance1>371960.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>180</VoucherID>
+			<Date>09-11-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR></DR>
+			<CR>300000.00</CR>
+			<Amount>-300000</Amount>
+			<Balance>671960.00 Cr.</Balance>
+			<Balance1>671960.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5020</AccountID>
+			<VoucherID>265</VoucherID>
+			<Date>03-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>300000.00</DR>
+			<CR></CR>
+			<Amount>300000</Amount>
+			<Balance>371960.00 Cr.</Balance>
+			<Balance1>371960.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>SRS CLOTHING COMPANY</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>57870</Balance>
+		<City></City>
+		<AccountID>5022</AccountID>
+		<Balance1>57870</Balance1>
+		<Details>
+			<AccountID>5022</AccountID>
+			<DueDate>01-02-2016</DueDate>
+			<No>19</No>
+			<Amt>8033</Amt>
+		</Details>
+		<Details>
+			<AccountID>5022</AccountID>
+			<DueDate>01-04-2015</DueDate>
+			<No>24</No>
+			<Amt>78574</Amt>
+		</Details>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>192</VoucherID>
+			<Date>28-11-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>98048.00</CR>
+			<Amount>-98048</Amount>
+			<Balance>98048.00 Cr.</Balance>
+			<Balance1>98048.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>196</VoucherID>
+			<Date>12-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>81459.00</CR>
+			<Amount>-81459</Amount>
+			<Balance>179507.00 Cr.</Balance>
+			<Balance1>179507.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>207</VoucherID>
+			<Date>21-12-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>109447.00</CR>
+			<Amount>-109447</Amount>
+			<Balance>288954.00 Cr.</Balance>
+			<Balance1>288954.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>203</VoucherID>
+			<Date>22-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>98048.00</DR>
+			<CR></CR>
+			<Amount>98048</Amount>
+			<Balance>190906.00 Cr.</Balance>
+			<Balance1>190906.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>235</VoucherID>
+			<Date>01-01-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>34819.00</CR>
+			<Amount>-34819</Amount>
+			<Balance>225725.00 Cr.</Balance>
+			<Balance1>225725.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>212</VoucherID>
+			<Date>05-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>81459.00</DR>
+			<CR></CR>
+			<Amount>81459</Amount>
+			<Balance>144266.00 Cr.</Balance>
+			<Balance1>144266.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>227</VoucherID>
+			<Date>18-01-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>55734.00 Dr.</Balance>
+			<Balance1>55734.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>238</VoucherID>
+			<Date>04-02-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>91019.00</CR>
+			<Amount>-91019</Amount>
+			<Balance>35285.00 Cr.</Balance>
+			<Balance1>35285.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>234</VoucherID>
+			<Date>10-02-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>64715.00 Dr.</Balance>
+			<Balance1>64715.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>240</VoucherID>
+			<Date>17-02-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>123119.00</CR>
+			<Amount>-123119</Amount>
+			<Balance>58404.00 Cr.</Balance>
+			<Balance1>58404.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>241</VoucherID>
+			<Date>18-02-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>72246.00</CR>
+			<Amount>-72246</Amount>
+			<Balance>130650.00 Cr.</Balance>
+			<Balance1>130650.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>242</VoucherID>
+			<Date>01-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>78574.00</CR>
+			<Amount>-78574</Amount>
+			<Balance>209224.00 Cr.</Balance>
+			<Balance1>209224.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>271</VoucherID>
+			<Date>09-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>109224.00 Cr.</Balance>
+			<Balance1>109224.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>284</VoucherID>
+			<Date>11-03-2016</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>32906.00</CR>
+			<Amount>-32906</Amount>
+			<Balance>142130.00 Cr.</Balance>
+			<Balance1>142130.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5022</AccountID>
+			<VoucherID>277</VoucherID>
+			<Date>19-03-2016</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>200000.00</DR>
+			<CR></CR>
+			<Amount>200000</Amount>
+			<Balance>57870.00 Dr.</Balance>
+			<Balance1>57870.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>SRS GLOBAL EXPORTS PVT LTD</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>-22596</Balance>
+		<City></City>
+		<AccountID>5017</AccountID>
+		<Balance1>-22596</Balance1>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>0</VoucherID>
+			<Date>01-04-2015</Date>
+			<Entry>Opening Balance</Entry>
+			<DR>58752.00</DR>
+			<CR></CR>
+			<Balance>58752.00 Dr.</Balance>
+			<Amount>58752</Amount>
+			<Balance1>58752.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>8</VoucherID>
+			<Date>09-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>62424.00</CR>
+			<Amount>-62424</Amount>
+			<Balance>3672.00 Cr.</Balance>
+			<Balance1>3672.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>12</VoucherID>
+			<Date>30-04-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>101282.00</CR>
+			<Amount>-101282</Amount>
+			<Balance>104954.00 Cr.</Balance>
+			<Balance1>104954.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>60</VoucherID>
+			<Date>07-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>101282.00</DR>
+			<CR></CR>
+			<Amount>101282</Amount>
+			<Balance>3672.00 Cr.</Balance>
+			<Balance1>3672.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>16</VoucherID>
+			<Date>20-05-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>55080.00</CR>
+			<Amount>-55080</Amount>
+			<Balance>58752.00 Cr.</Balance>
+			<Balance1>58752.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>99</VoucherID>
+			<Date>01-06-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>58752.00</DR>
+			<CR></CR>
+			<Amount>58752</Amount>
+			<Balance>0.00 Dr.</Balance>
+			<Balance1>0.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>24</VoucherID>
+			<Date>27-06-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>294534.00</CR>
+			<Amount>-294534</Amount>
+			<Balance>294534.00 Cr.</Balance>
+			<Balance1>294534.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>100</VoucherID>
+			<Date>02-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>194534.00 Cr.</Balance>
+			<Balance1>194534.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>101</VoucherID>
+			<Date>09-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>94534.00 Cr.</Balance>
+			<Balance1>94534.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>28</VoucherID>
+			<Date>14-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>149310.00</CR>
+			<Amount>-149310</Amount>
+			<Balance>243844.00 Cr.</Balance>
+			<Balance1>243844.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>102</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>94535.00</DR>
+			<CR></CR>
+			<Amount>94535</Amount>
+			<Balance>149309.00 Cr.</Balance>
+			<Balance1>149309.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>103</VoucherID>
+			<Date>25-07-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>49309.00 Cr.</Balance>
+			<Balance1>49309.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>34</VoucherID>
+			<Date>29-07-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>151490.00</CR>
+			<Amount>-151490</Amount>
+			<Balance>200799.00 Cr.</Balance>
+			<Balance1>200799.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>36</VoucherID>
+			<Date>06-08-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>96931.00</CR>
+			<Amount>-96931</Amount>
+			<Balance>297730.00 Cr.</Balance>
+			<Balance1>297730.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>104</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>49310.00</DR>
+			<CR></CR>
+			<Amount>49310</Amount>
+			<Balance>248420.00 Cr.</Balance>
+			<Balance1>248420.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>105</VoucherID>
+			<Date>11-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>51490.00</DR>
+			<CR></CR>
+			<Amount>51490</Amount>
+			<Balance>196930.00 Cr.</Balance>
+			<Balance1>196930.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>106</VoucherID>
+			<Date>12-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>96930.00 Cr.</Balance>
+			<Balance1>96930.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>81</VoucherID>
+			<Date>20-08-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>67284.00</CR>
+			<Amount>-67284</Amount>
+			<Balance>164214.00 Cr.</Balance>
+			<Balance1>164214.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>107</VoucherID>
+			<Date>28-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>96900.00</DR>
+			<CR></CR>
+			<Amount>96900</Amount>
+			<Balance>67314.00 Cr.</Balance>
+			<Balance1>67314.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>108</VoucherID>
+			<Date>04-09-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>67166.00</DR>
+			<CR></CR>
+			<Amount>67166</Amount>
+			<Balance>148.00 Cr.</Balance>
+			<Balance1>148.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>144</VoucherID>
+			<Date>25-09-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>126457.00</CR>
+			<Amount>-126457</Amount>
+			<Balance>126605.00 Cr.</Balance>
+			<Balance1>126605.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>151</VoucherID>
+			<Date>02-10-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>179842.00</CR>
+			<Amount>-179842</Amount>
+			<Balance>306447.00 Cr.</Balance>
+			<Balance1>306447.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>181</VoucherID>
+			<Date>02-10-2015</Date>
+			<Entry>Purchase</Entry>
+			<DR></DR>
+			<CR>242649.00</CR>
+			<Amount>-242649</Amount>
+			<Balance>549096.00 Cr.</Balance>
+			<Balance1>549096.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>147</VoucherID>
+			<Date>08-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>126500.00</DR>
+			<CR></CR>
+			<Amount>126500</Amount>
+			<Balance>422596.00 Cr.</Balance>
+			<Balance1>422596.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>164</VoucherID>
+			<Date>27-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>322596.00 Cr.</Balance>
+			<Balance1>322596.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>165</VoucherID>
+			<Date>29-10-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>50000.00</DR>
+			<CR></CR>
+			<Amount>50000</Amount>
+			<Balance>272596.00 Cr.</Balance>
+			<Balance1>272596.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>178</VoucherID>
+			<Date>19-11-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>150000.00</DR>
+			<CR></CR>
+			<Amount>150000</Amount>
+			<Balance>122596.00 Cr.</Balance>
+			<Balance1>122596.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5017</AccountID>
+			<VoucherID>204</VoucherID>
+			<Date>07-12-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR>100000.00</DR>
+			<CR></CR>
+			<Amount>100000</Amount>
+			<Balance>22596.00 Cr.</Balance>
+			<Balance1>22596.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+	<Account>
+		<AccountName>VIJAYA BANK</AccountName>
+		<DateOfBirth></DateOfBirth>
+		<Mobile></Mobile>
+		<Email></Email>
+		<Balance>53608</Balance>
+		<City></City>
+		<AccountID>5019</AccountID>
+		<Balance1>53608</Balance1>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>131</VoucherID>
+			<Date>08-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>47780.00</CR>
+			<Amount>-47780</Amount>
+			<Balance>47780.00 Cr.</Balance>
+			<Balance1>47780.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>132</VoucherID>
+			<Date>27-04-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>62424.00</CR>
+			<Amount>-62424</Amount>
+			<Balance>110204.00 Cr.</Balance>
+			<Balance1>110204.00 Dr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>136</VoucherID>
+			<Date>29-05-2015</Date>
+			<Entry>Quick Receipt</Entry>
+			<DR>311000.00</DR>
+			<CR></CR>
+			<Amount>311000</Amount>
+			<Balance>200796.00 Dr.</Balance>
+			<Balance1>200796.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>133</VoucherID>
+			<Date>30-05-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>43188.00</CR>
+			<Amount>-43188</Amount>
+			<Balance>157608.00 Dr.</Balance>
+			<Balance1>157608.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>106</VoucherID>
+			<Date>12-08-2015</Date>
+			<Entry>Quick Payment</Entry>
+			<DR></DR>
+			<CR>100000.00</CR>
+			<Amount>-100000</Amount>
+			<Balance>57608.00 Dr.</Balance>
+			<Balance1>57608.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+		<Ledger>
+			<AccountID>5019</AccountID>
+			<VoucherID>272</VoucherID>
+			<Date>12-03-2016</Date>
+			<Entry>Withdrawl</Entry>
+			<DR></DR>
+			<CR>4000.00</CR>
+			<Amount>-4000</Amount>
+			<Balance>53608.00 Dr.</Balance>
+			<Balance1>53608.00 Cr.</Balance1>
+			<Mobile></Mobile>
+		</Ledger>
+	</Account>
+</collection>
+
