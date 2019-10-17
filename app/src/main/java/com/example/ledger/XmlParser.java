@@ -64,7 +64,7 @@ public class XmlParser {
                     accountList.add(account);
                 }
 
-                if (text != null) {
+                /*if (text != null) {
                     text = text.trim();
                     if (text.isEmpty()) {
                         type = parser.next();
@@ -73,44 +73,59 @@ public class XmlParser {
                 } else {
                     type = parser.next();
                     continue;
-                }
-
-                if (tagName.equalsIgnoreCase(Account.ACCOUNT_NAME)) {
+                }*/
+                text = text.trim();
+                if (tagName !=null && tagName.equalsIgnoreCase(Account.ACCOUNT_NAME)) {
+                    if(text!=null && !text.isEmpty())
                     account.setAccountName(text);
-                } else if (tagName.equalsIgnoreCase(Account.DATE_OF_BIRTH)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.DATE_OF_BIRTH)) {
                    // account.setDob(new Date(text));
-                } else if (tagName.equalsIgnoreCase(Account.MOBILE)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.MOBILE)) {
+                    if(text!=null && !text.isEmpty())
                     account.setMobile(Long.parseLong(text));
-                } else if (tagName.equalsIgnoreCase(Account.EMAIL)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.EMAIL)) {
+                    if(text!=null && !text.isEmpty())
                     account.setEmail(text);
-                } else if (tagName.equalsIgnoreCase(Account.BALANCE)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.BALANCE)) {
+                    if(text!=null && !text.isEmpty())
                     account.setBalance(text);
-                } else if (tagName.equalsIgnoreCase(Account.CITY)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.CITY)) {
+                    if(text!=null && !text.isEmpty())
                     account.setCity(text);
-                } else if (tagName.equalsIgnoreCase(Account.ACCOUNT_ID)) {
+                } else if (tagName !=null && tagName.equalsIgnoreCase(Account.ACCOUNT_ID)) {
+                    if(text!=null && !text.isEmpty())
                     account.setAccountId(Integer.parseInt(text));
                 }
                 //Ledger Details
                 if (ledger != null) {
                     if (tagName.equalsIgnoreCase(Ledger.ACCOUNT_ID)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setAccountId(Integer.parseInt(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.VOUCHER_ID)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setVoucherId(Integer.parseInt(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.DATE)) {
                        // ledger.setDate(new Date(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.ENTRY)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setEntry(text);
                     } else if (tagName.equalsIgnoreCase(Ledger.DR)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setDr(Double.parseDouble(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.CR)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setCr(Double.parseDouble(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.AMOUNT)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setAmount(Double.parseDouble(text));
                     } else if (tagName.equalsIgnoreCase(Ledger.BALANCE)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setBalance(text);
                     } else if (tagName.equalsIgnoreCase(Ledger.BALANCE1)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setBalance1(text);
                     } else if (tagName.equalsIgnoreCase(Ledger.MOBILE)) {
+                        if(text!=null && !text.isEmpty())
                         ledger.setMobile(Long.parseLong(text));
                     }
                 }
